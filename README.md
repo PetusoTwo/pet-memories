@@ -2,7 +2,7 @@
 
 Pet Memories es una plataforma web diseñada para que los dueños de mascotas puedan crear y compartir recuerdos especiales de sus fieles compañeros.
 
-🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 
 Next.js - Framework de React para aplicaciones web modernas.
 Tailwind CSS - Framework de estilos para diseño responsivo y personalización rápida.
