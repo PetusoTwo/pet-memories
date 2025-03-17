@@ -9,7 +9,7 @@ Tailwind CSS - Framework de estilos para diseño responsivo y personalización r
 TypeScript - Superset de JavaScript que agrega tipado estático.
 React - Biblioteca de interfaces de usuario basada en componentes.
 
-🔩 Características principales
+## 🔩 Características principales
 
 Creación de recuerdos personalizados con imágenes y textos.
 Galería para visualizar los recuerdos de las mascotas.
@@ -17,12 +17,12 @@ Sección de historias para compartir experiencias.
 Comunidad de apoyo para interactuar con otros dueños de mascotas.
 Diseño moderno y responsivo con Tailwind CSS.
 
-📷 Visualizacion:
+## 📷 Visualizacion:
 
 ![Captura de pantalla 2025-03-17 103833](https://github.com/user-attachments/assets/a859b8ad-8f04-48bb-901c-c0ea949b25fd)
 
 
-🛫 Instalación y configuración
+## 🛫 Instalación y configuración
 
 Requisitos previos
 
